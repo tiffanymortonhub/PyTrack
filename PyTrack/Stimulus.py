@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 import numpy as np
-from numpy.lib.function_base import diff
+from numpy import diff
 import pandas as pd
 import matplotlib as mpl
 import matplotlib.pyplot as plt
